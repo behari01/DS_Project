@@ -1,0 +1,127 @@
+.all{
+    background-image: url(../HomePage/eduback.png);
+    height: 900px;
+    background-size: cover;
+
+}
+
+.hList{
+    border: 1px solid transparent;
+    height: 80px;
+    background-color: rgb(163, 44, 17);
+    text-align: right;
+    font-size: 20px;
+}
+
+.hList li{
+    color: black;
+    display: inline-block;
+    margin: 14px;
+    margin-top: 30px;
+}
+
+.hList li:hover{
+    background-color: gold;
+}
+.hList img{
+    opacity: 0.4;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    height: 80px;
+}
+.kartat{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    justify-content: space-around;
+}
+
+.footer{
+    border: 1px solid transparent;
+    text-align: center;
+    background-color: rgb(163, 44, 17);
+    height: 80px;
+}
+
+.footer h3{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.boxWhite{
+    display: flex;
+    border: 1px solid transparent;
+    height: 100px;
+    justify-content: center;
+}
+
+
+/*************sesionet*******/
+.Tree{
+    margin-bottom: 100px;
+    display: flex;
+    border: 1px solid black;
+    height: 180px;
+    flex-wrap: wrap;
+
+}
+.Tree2 h3{
+    margin-top: 20px;
+}
+
+/********Literatura********/
+
+.kartatLiteratura{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+}
+
+.kartLiteratura{
+    display: flex;
+    border: 1px solid transparent;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.inputKart{
+    font-size: 20px;
+}
+
+/***************CARD NOTES***************/
+
+/* #kartaNotes{
+    display: flex;
+    flex-direction: column;    
+} */
+
+#header-blue{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration-color: white;
+}
+
+#header-green{
+    background-color: rgb(255, 255, 255);
+}
+
+#header-black{
+    background-color: white;
+    
+}
+
+/*****search&add-Notes******/
+
+.search-label{
+    
+    margin-left: 1000px;
+}
+
+/*****searchLiterturaPage******/ 
+
+.searchLiteratura{
+    margin-left: 1300px;
+}
