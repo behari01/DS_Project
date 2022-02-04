@@ -1,0 +1,15 @@
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\beeni\Desktop\PROJECT\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\beeni\Desktop\PROJECT\Persistence\obj\Debug\net6.0\Persistence.pdb
